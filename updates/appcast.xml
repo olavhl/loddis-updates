@@ -4,20 +4,20 @@
      xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Loddis Updates</title>
-    <link>https://your-public-repo-url.github.io/updates/Loddis-0.0.2.zip</link>
+    <link>https://olavhl.github.io/loddis-updates/updates/Loddis-0.0.3.zip</link>
     <description>Latest updates for Loddis</description>
     <language>en</language>
     <item>
-      <title>Version 0.0.2</title>
-      <sparkle:releaseNotesLink>https://your-site.com/release-notes/0.0.2</sparkle:releaseNotesLink>
-      <pubDate>Sun, 22 Jun 2025 14:24:44 +0200</pubDate>
+      <title>Version 0.0.3</title>
+      <sparkle:releaseNotesLink>https://your-site.com/release-notes/0.0.3</sparkle:releaseNotesLink>
+      <pubDate>Sun, 22 Jun 2025 14:47:07 +0200</pubDate>
       <enclosure
-        url="https://your-public-repo-url.github.io/updates/Loddis-0.0.2.zip"
-        sparkle:version="0.0.2"
-        sparkle:shortVersionString="0.0.2"
-        length="1588904"
+        url="https://olavhl.github.io/loddis-updates/updates/Loddis-0.0.3.zip"
+        sparkle:version="0.0.3"
+        sparkle:shortVersionString="0.0.3"
+        length="1588953"
         type="application/octet-stream"
-        sparkle:edSignature="rnlTX+/xh1REP46XVp1ygCJm4Kahp5KzI7ej75Ts/xEPmMjkIoHdSE85vxv5HQCh9tao9SaeXofFwSgq9Dg4DQ==" />
+        sparkle:edSignature="0CaSB/Xdn1PVgekS2li0uJLTlCfXd4SCNZBfasshKEFlziqGxgmD9A/6PXmnYbVRwnxNsA6PEjJi5kbLMMRBAQ==" />
     </item>
   </channel>
 </rss>
