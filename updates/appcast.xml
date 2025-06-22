@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Loddis Updates</title>
+    <link>https://your-public-repo-url.github.io/updates/Loddis-0.0.2.zip</link>
+    <description>Latest updates for Loddis</description>
+    <language>en</language>
+    <item>
+      <title>Version 0.0.2</title>
+      <sparkle:releaseNotesLink>https://your-site.com/release-notes/0.0.2</sparkle:releaseNotesLink>
+      <pubDate>Sun, 22 Jun 2025 14:24:44 +0200</pubDate>
+      <enclosure
+        url="https://your-public-repo-url.github.io/updates/Loddis-0.0.2.zip"
+        sparkle:version="0.0.2"
+        sparkle:shortVersionString="0.0.2"
+        length="1588904"
+        type="application/octet-stream"
+        sparkle:edSignature="rnlTX+/xh1REP46XVp1ygCJm4Kahp5KzI7ej75Ts/xEPmMjkIoHdSE85vxv5HQCh9tao9SaeXofFwSgq9Dg4DQ==" />
+    </item>
+  </channel>
+</rss>
