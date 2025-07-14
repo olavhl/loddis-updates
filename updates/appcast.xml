@@ -10,14 +10,14 @@
     <item>
       <title>Version 0.0.8</title>
       <sparkle:releaseNotesLink>https://olavhl.github.io/loddis-updates/release-notes/0.0.8.html</sparkle:releaseNotesLink>
-      <pubDate>Sun, 29 Jun 2025 12:18:02 +0200</pubDate>
+      <pubDate>Mon, 14 Jul 2025 11:25:54 +0200</pubDate>
       <enclosure
         url="https://olavhl.github.io/loddis-updates/updates/Loddis-0.0.8.zip"
         sparkle:version="8"
         sparkle:shortVersionString="0.0.8"
-        length="1605590"
+        length="10924033"
         type="application/octet-stream"
-        sparkle:edSignature="gbTQz5EuF4p47QTdDh4Z30jTqxupm1ePvSWFly9P4Le1bSmf0TSPxMQpZP8UJX0jbopNAMXKCCOaENHb7pzMCw==" />
+        sparkle:edSignature="ewRY0sLDLiSJqhijFMtNZfL7IEoFc6jNMxXQj7ALgDT9hxV5U46sQZHx674Bhtb6MUKTaLB/zXAkdbky1dhoCA==" />
     </item>
   </channel>
 </rss>
